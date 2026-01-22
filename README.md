@@ -18,7 +18,7 @@ A responsive blog application built with React, offering users a seamless experi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mahmoudramadan21/9.-blogApp
+   git clone https://github.com/Mahmoudramadan21/blogApp
 
 2. Navigate to the project directory:
    ```bash
